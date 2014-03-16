@@ -1,0 +1,12 @@
+{
+  "name": "new-project",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": "",
+  "author": "",
+  "license": "MIT"
+}
